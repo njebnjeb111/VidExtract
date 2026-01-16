@@ -91,6 +91,13 @@ VidExtract focuses on **speed**, **simplicity**, and a **clean desktop experienc
 
 ---
 
+🧠 **The Training Arc**
+
+This project is part of my ongoing training arc.  
+Built with discipline, refined through mistakes.
+
+---
+
 ## 🛠️ Developer Setup
 
 ```bash
