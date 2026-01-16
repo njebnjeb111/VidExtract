@@ -126,3 +126,8 @@ If something breaks, please open an issue with logs and screenshots if possible.
 
 This project is licensed under the **GNU GPL v3**.
 See the LICENSE file for details.
+
+🧠 **The Training Arc**
+
+This project is part of my ongoing training arc.  
+Built with discipline, refined through mistakes.
